@@ -1,0 +1,7 @@
+{
+    "bitbake.pathToBuildFolder": "/home/iam/workplace/poky/build",
+    "bitbake.pathToEnvScript": "/home/iam/yocto/poky/oe-init-build-env",
+    "bitbake.pathToBitbakeFolder": "/home/iam/yocto/poky/bitbake",
+    "C_Cpp.default.cStandard": "gnu23",
+    "C_Cpp.default.cppStandard": "gnu++23",
+}
